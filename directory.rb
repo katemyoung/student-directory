@@ -32,8 +32,6 @@ def print_footer(students)
   puts "Overall, we have #{students.count} great students"
 end
 
-
-
 # Call each method
 students = input_students
 print_header
